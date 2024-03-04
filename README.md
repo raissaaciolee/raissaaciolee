@@ -9,7 +9,7 @@ Sou uma estudante dedicada de programação com o objetivo de me tornar uma dese
 
 
 <!--Redes Sociais-->
-<h2>⚡Redes Sociais</h2>
+<h2>⚡Contato</h2>
 <div> 
   <a href="https://instagram.com/raissaaciolee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:raissaaciole41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
