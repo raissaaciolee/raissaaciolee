@@ -5,7 +5,7 @@ Sou uma estudante dedicada de programação com o objetivo de me tornar uma dese
 </p>
 
 <!--Github Star-->
-![Raissa Aciole GitHub stats](https://github-readme-stats.vercel.app/api?username=Raissa-Aciole&show_icons=true&theme=omni)
+![Raissa Aciole GitHub stats](https://github-readme-stats.vercel.app/api?username=raissaaciolee&show_icons=true&theme=omni)
 
 
 <!--Redes Sociais-->
