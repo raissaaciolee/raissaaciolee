@@ -1,25 +1,46 @@
-<h1 align="center">Hello World!👩🏻‍💻🖐🏻</h1>
+<h1 align="center">🌸 Meu cantinho no GitHub</h1>
 
-<p>
-Sou uma estudante dedicada de programação com o objetivo de me tornar uma desenvolvedora full-stack🎇💻. Estou sempre em busca de conhecimento📚 e em constante aprendizado para explorar🔍 e compreender melhor o vasto universo tecnológico.💡
-</p>
+###
 
-<!--Redes Sociais-->
-<h2>⚡Contato</h2>
-<div> 
-  <a href="https://instagram.com/raissaaciolee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:raissaaciole41@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raissa-aciole-7708b52b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h4 align="center">🎓 Engenharia de Software 1º Período | 💻 Desenvolvedora Web | 📚✨ Aprendizado Constante</h4>
+
+###
+
+<h3 align="left">Sobre mim ☕🐾</h3>
+
+###
+
+<p align="left">Olá! Me chamo Raissa Aciole, sou estudante do 1º período de Engenharia de Software na Uninter e este perfil é focado especialmente nos meus estudos e na minha evolução como desenvolvedora. Sou apaixonada por aprender coisas novas, resolver problemas e evoluir constantemente. Aqui você vai encontrar meus primeiros passos como desenvolvedora — erros, acertos e muita vontade de crescer! 🚀💻<br><br>Além do código, sou apaixonada por tudo que é fofo ✨ — amo café, doces, a My Melody e muitos gatinhos. 💖🐱<br><br>Seja bem-vindo(a) ao meu cantinho de aprendizado!</p>
+
+###
+
+<h3 align="left">☕ O que já entrou no meu café de conhecimento 🍬</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-<!--Skills-->
-<h2>🔥Skills</h2>
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <br>
-  <br>
+###
+
+<p align="center">•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raissaaciolee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raissaaciolee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-![download](https://github.com/Raissa-Aciole/Raissa-Aciole/assets/159713895/839e3b13-5da8-4123-babb-76fa19cccd3b)
+###
